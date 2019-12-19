@@ -1,167 +1,184 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="47">
     <author>Edge Gaming / Castiga</author>
-    <translationsby>Castiga</translationsby>
-    <version>1.0.0.0</version>
+    <version>0.8.0.0</version>
     <title><!-- en=English de=German jp=Japanese pl=Polish cz=Czech fr=French es=Spanish ru=Russian it=Italian pt=Portuguese hu=Hungary nl=Netherlands cs=Chinese (Simplified) ct=Chinese (Traditional) br=Brazilian-Portuguese tr=Turkish ro=Romanian kr=Korean -->
-        <en>EDGE Sign</en>
-        <de>EDGE Sign</de>
-        <fr>EDGE Sign</fr>
-        <es>EDGE Sign</es>
-        <ru>EDGE Sign</ru>
-        <pl>EDGE Sign</pl>
-        <it>EDGE Sign</it>
+        <en>Fliegl Lowloader EDGE Edition</en>
+        <de>Fliegl Tieflader EDGE Auflage</de>
+        <fr>Fliegl Surbaissé Édition EDGE</fr>
+        <es>Fliegl Cargador Bajo EDGE Edición</es>
+        <ru>Fliegl Низкорамная платформа EDGE Издание</ru>
+        <pl>Fliegl Niskopodwoziowa EDGE Wydanie</pl>
     </title>
     <description>
-        <en><![CDATA[This Repository is a Template Repo for our FS 19 mods. It includes the necessary files for an FS19 mod.
+        <en><![CDATA[Fliegl Lowloader EDGE Edition is the Worlds first functional low loader that will actually fit your huge machinery.
+It's wider and longer than most others making it ideal for this kind of work.
+You will have loads of costumizations options, and there is more to come!
+Fitted with worklights for nighttime work. Also fitted with detail lights working with every truck.
 
--All buildings have automatic lighting.
--All Buildings supports "Seasons" and "Courseplay Six".
--All Buildings have FillTypeCategories: Farmsilo (to Support Custom Fruits)
+The trailer has functioning tensionbelts, these will work on all things made for use with tensionbelt in the original game,
+function with fastening vehicles with these will be added in the future.
 
---Technical Info--
-
-Small Grain Silo:
-Price: 110.000€
-Upkeep: 45€ Daily.
-Size: 14 x 15 Meters.
-Capacity: 100.000 Litre.
-Overloading Speed 2000 Liters Per Second.
+Fliegl Lowloader EDGE Edition:
+Price: 35.000€
+Size: 13 x 3m
+Weight: 7.500kg
 
 Changelog 1.0.0.0:
-- Initial Realease.]]></en>
+Initial Release.]]></en>
+        <de><![CDATA[Fliegl Tieflader EDGE Auflage ist der weltweit erste funktionale Tieflader, der für Ihre riesigen Maschinen geeignet ist.
+Es ist breiter und länger als die meisten anderen, was es ideal für diese Art von Arbeit macht.
+Sie werden viele Optionen für die Kostümierung haben, und es wird noch mehr geben!
+Ausgestattet mit Arbeitsscheinwerfern für die Nachtarbeit. Auch mit Detailleuchten ausgestattet, die für jeden LKW geeignet sind.
 
-<de><![CDATA[Einige Silos für die Lagerung von Korn. Das Paket enthält vier Hofsilos und 6 Siloerweiterungen.
+Der Trailer hat funktionierende Spanngurte, die auf allen Dingen funktionieren, die für die Verwendung mit Spanngurten im Originalspiel gemacht wurden.
+Funktion bei der Befestigung von Fahrzeugen mit diesen wird in Zukunft hinzukommen.
 
--Alle Gebäude verfügen über eine automatische Beleuchtung.
--Alle Gebäude unterstützen "Seasons" und "Courseplay Six".
--Alle Gebäude haben FillTypeCategories: Farmsilo (zur Unterstützung benutzerdefinierter Früchte)
-
---Technische Information--
-
-Kleines Getreidesilo:
-Preis: 110.000 €
-Unterhalt: 45 € Täglich.
-Größe: 14 x 15 Meter.
-Fassungsvermögen: 100.000 Liter.
-Überladegeschwindigkeit 2000 Liter pro Sekunde.
+Fliegl Tieflader EDGE Auflage:
+Preis: 35.000 €
+Größe: 13 x 3 m
+Gewicht: 7.500 kg
 
 Änderungsprotokoll 1.0.0.0:
-- Erstveröffentlichung.]]></de>
+Erstveröffentlichung.]]></de>
+        <fr><![CDATA[Fliegl surbaissé édition EDGE est le premier chargeur surbaissé fonctionnel au monde qui conviendra réellement à vos énormes machines.
+Il est plus large et plus long que la plupart des autres, ce qui le rend idéal pour ce type de travail.
+Vous aurez une multitude d'options de personnalisation, et d'autres sont à venir!
+Equipé de projecteurs de travail pour le travail de nuit. Également équipé de lumières de détail fonctionnant avec tous les camions.
 
-        <fr><![CDATA[Quelques silos pour stocker votre Grain. Le pack contient 4 silos de ferme et 6 extensions de silo.
+La bande-annonce a des courroies de tension qui fonctionnent sur tout ce qui est conçu pour être utilisé avec une courroie de tension dans le jeu original,
+fonctionner avec des véhicules de fixation avec ceux-ci seront ajoutés à l'avenir.
 
--Tous les bâtiments ont un éclairage automatique.
--Tous les bâtiments prennent en charge "Seasons" et "Courseplay Six".
--Tous les bâtiments ont FillTypeCategories: Farmsilo (pour prendre en charge les fruits personnalisés)
-
---Info technique--
-
-Silo à petits grains:
-Prix: 110.000 €
-Entretien: 45 € par jour.
-Taille: 14 x 15 mètres.
-Capacité: 100.000 litres.
-Vitesse de surcharge 2000 litres par seconde.
+Fliegl surbaissé édition EDGE:
+Prix: 35.000 €
+Taille: 13 x 3m
+Poids: 7.500kg
 
 Changer le journal 1.0.0.0:
-- Première version.]]></fr>
+Première version.]]></fr>
+        <es><![CDATA[Fliegl Lowloader EDGE Edition es el primer cargador bajo funcional del mundo que realmente se adaptará a su enorme maquinaria.
+Es más ancho y más largo que la mayoría de los demás, lo que lo hace ideal para este tipo de trabajo.
+Tendrás un montón de opciones de disfraces, ¡y hay más por venir!
+Equipados con faros de trabajo para trabajo nocturno. También equipado con luces de detalle trabajando con todos los camiones.
 
-        <es><![CDATA[Algunos silos para almacenar tu grano. El paquete contiene 4 silos de granja y 6 extensiones de silo.
+El tráiler tiene cinturones de tensión en funcionamiento, estos funcionarán en todas las cosas hechas para usar con el cinturón de tensión en el juego original.
+La función con los vehículos de sujeción con estos se añadirá en el futuro.
 
--Todos los edificios tienen iluminación automática.
--Todos los edificios son compatibles con "Seasons" y "Courseplay Six".
--Todos los edificios tienen FillTypeCategories: Farmsilo (para admitir frutas personalizadas)
-
---Información técnica--
-
-Silo de grano pequeño:
-Precio: 110.000 €
-Mantenimiento: 45 € diarios.
-Tamaño: 14 x 15 metros.
-Capacidad: 100.000 litros.
-Velocidad de sobrecarga de 2000 litros por segundo.
+Fliegl Lowloader EDGE Edition:
+Precio: 35.000 €
+Tamaño: 13 x 3m
+Peso: 7.500kg
 
 Registro de cambios 1.0.0.0:
-- Versión inicial.]]></es>
+Versión inicial.]]></es>
+        <ru><![CDATA[Fliegl Lowloader EDGE edition - первый в мире функциональный низкорамный погрузчик, который действительно подойдет для вашей огромной техники.
+Он шире и длиннее, чем большинство других, что делает его идеальным для такой работы.
+У вас будет множество вариантов расчета стоимости, и это еще не все!
+Оснащен фарами для работы в ночное время. Также оснащен детальными огнями, работающими с каждым грузовиком.
 
-        <ru><![CDATA[Некоторые бункеры для хранения вашего зерна. Пакет содержит 4 бункера фермы и 6 расширений бункера.
+В трейлере есть работающие натяжные ремни, они будут работать на всех вещах, сделанных для использования с натяжными ремнями в оригинальной игре,
+функция с креплением автомобилей с этим будет добавлена в будущем.
 
--Все здания имеют автоматическое освещение.
--Все здания поддерживают "Seasons" и "Courseplay Six".
--Все здания имеют FillTypeCategories: Farmsilo (для поддержки пользовательских фруктов)
+Fliegl Lowloader EDGE Edition:
+Цена: 35.000 €
+Размер: 13 х 3 м
+Вес: 7.500 кг
 
---Техническая информация--
+Журнал изменений 1.0.0.0:
+Первый выпуск.]]></ru>
+        <pl><![CDATA[Edycja Fliegl Lowloader EDGE to pierwsza na świecie funkcjonalna ładowarka niskopodwoziowa, która rzeczywiście pasuje do ogromnych maszyn.
+Jest szerszy i dłuższy niż większość innych, co czyni go idealnym do tego rodzaju pracy.
+Będziesz mieć mnóstwo opcji kostiumów, a jest ich więcej!
+Wyposażone w reflektory robocze do pracy w nocy. Wyposażony również w oświetlenie szczegółowe współpracujące z każdą ciężarówką.
 
-Бункер для мелкого зерна:
-Цена: 110.000 €
-Содержание: 45 € в день.
-Размер: 14 х 15 метров.
-Вместимость: 100.000 л.
-Скорость перегрузки 2000 литров в секунду.
+Przyczepa ma działające paski napinające, które będą działać na wszystkie rzeczy wykonane z użyciem paska napinającego w oryginalnej grze,
+funkcja z pojazdami mocującymi z tymi zostanie dodana w przyszłości.
 
-Изменения 1.0.0.0:
-- Первый выпуск.]]></ru>
+Fliegl Lowloader EDGE Edition:
+Cena: 35 000 €
+Rozmiar: 13 x 3 m
+Waga: 7.500 kg
 
-        <pl><![CDATA[Niektóre silosy do przechowywania zboża. Pakiet zawiera 4 silosy rolnicze i 6 przedłużeń silosów.
-
--Wszystkie budynki mają automatyczne oświetlenie.
--Wszystkie budynki obsługują „Pory roku” i „Courseplay Six”.
--Wszystkie budynki mają FillTypeCategory: Farmsilo (do obsługi niestandardowych owoców)
-
---Informacje techniczne--
-
-Silos o małych ziarnach:
-Cena: 110.000 €
-Utrzymanie: 45 € dziennie.
-Rozmiar: 14 x 15 metrów.
-Pojemność: 100 000 litrów.
-Prędkość przeciążenia 2000 litrów na sekundę.
-
-Lista zmian 1.0.0.0:
-- Pierwsze wydanie.]]></pl>
-        <it><![CDATA[Alcuni silos per conservare il grano. Il pacchetto contiene 4 silos agricoli e 6 estensioni per silo.
-
--Tutti gli edifici hanno l'illuminazione automatica.
--Tutti gli edifici supportano "Seasons" e "Courseplay Six".
--Tutti gli edifici hanno FillTypeCategories: Farmsilo (per supportare la frutta personalizzata)
-
---Informazioni tecniche--
-
-Silo per cereali piccoli:
-Prezzo: 110.000 €
-Manutenzione: 45 € al giorno.
-Dimensioni: 14 x 15 metri.
-Capacità: 100.000 litri.
-Velocità di sovraccarico 2000 litri al secondo.
-
-Elenco modifiche 1.0.0.0:
-- Realease iniziale.]]></it>
-	</description>
-    <iconFilename>EdgeSign_Icon.dds</iconFilename>
+Dziennik zmian 1.0.0.0:
+Pierwsze wydanie.]]></pl>
+    </description>
+    <iconFilename>EDGELowLoader_icon.dds</iconFilename>
     <multiplayer supported="true"/>
     <storeItems>
-        <storeItem xmlFilename="data/EdgeSign.xml"/>
+        <storeItem xmlFilename="data/EDGELowLoader.xml"/>
     </storeItems>
-	<l10n filenamePrefix="modDesc/modDesc_l10n"/>
+	<vehicleTypes>
+        <type name="EDGE_fliegl" className="Vehicle" filename="$dataS/scripts/vehicles/Vehicle.lua">
+            <specialization name="attacherJoints"/>
+            <specialization name="lights"/>
+            <specialization name="attachable"/>
+            <specialization name="animatedVehicle"/>
+            <specialization name="cylindered"/>
+            <specialization name="powerConsumer"/>
+            <specialization name="foldable"/>
+            <specialization name="washable"/>
+            <specialization name="wearable"/>
+            <specialization name="mountable"/>
+        </type>
+    </vehicleTypes>
+    <l10n>
+        <text name="typeDesc_EDGELowLoader">
+            <en>Worlds first functional low loader that will actually fit your huge machinery</en>
+            <de>Der weltweit erste funktionale Tieflader, der in Ihre riesigen Maschinen passt</de>
+            <fr>Le premier chargeur surbaissé fonctionnel au monde qui conviendra réellement à vos énormes machines</fr>
+        </text>
+        <text name="name_EDGELowLoader">
+            <en>Fliegl Lowloader EDGE Edition</en>
+            <de>Fliegl Tieflader EDGE Auflage</de>
+            <fr>Fliegl surbaissé édition EDGE</fr>
+            <es>Fliegl Cargador Bajo EDGE Edición</es>
+            <ru>Fliegl Низкорамная платформа EDGE Издание</ru>
+            <pl>Fliegl Niskopodwoziowa EDGE Wydanie</pl>
+        </text>
+		<text name="configuration_TwinRadial">
+            <en>Twin Radial</en>
+            <de>Zwillingsradial</de>
+            <fr>Radial double</fr>
+        </text>
+        <text name="configuration_CARGOXBIB">
+            <en>Cargo</en>
+            <de>Fracht</de>
+            <fr>Fliegl surbaissé édition EDGE</fr>
+        </text>
+        <text name="configuration_CXBheavyduty">
+            <en>Heavy Duty</en>
+            <de>Schwerlast</de>
+            <fr>À toute épreuve</fr>
+        </text>
+		<text name="configuration_rough">
+            <en>Rough</en>
+            <de>Rau</de>
+            <fr>Rugueux</fr>
+        </text>
+		<text name="configuration_TwinForestry">
+            <en>Forestry</en>
+            <de>Forstwirtschaft</de>
+            <fr>Sylviculture</fr>
+        </text>
+		<text name="input_function_light">
+            <en>Side Lights on/off</en>
+            <de>Lichten an/aus</de>
+            <fr>Lumière</fr>
+            <nl>Licht aan/uit</nl>
+        </text>
+        <text name="function_light">
+            <en>Side Lights on/off</en>
+            <de>Lichten an/aus</de>
+            <fr>Lumière</fr>
+            <nl>Licht aan/uit</nl>
+        </text>
+		<text name="DARK GREY" value="0.037 0.037 0.037 1" color="0.037 0.037 0.037 1" material="0"/>
+		<text name="ITRUNNER" value="0.037 0.037 0.037 1" color="0.0382 0.0369 0.0482 1" material="8"/>
+    </l10n>
     <brands>
         <brand name="EDGE" title="EDGE Industries" image="store/EDGE_Brand_Logo.dds"/>
     </brands>
-    <!-- <l10n>
-        <text name="name_MultiSellingStation">
-            <en>Multi Selling Station</en>
-            <de>Multi Verkaufsstation</de>
-            <fr>Poste De Vente Multiple</fr>
-            <es>Estación De Venta Múltiple</es>
-            <ru>Мультипродажная станция</ru>
-            <pl>Stacja Sprzedaży</pl>
-        </text>
-    </l10n> -->
-    <credits><![CDATA[
-## Contributors
-- Castiga, EDGE Gaming
-## Translations
-- Castiga
-## Designers
-- Castiga]]></credits>
+    <!--<inputBindings>
+        <input name="unfoldOBJECT" key="ACTIVATE_OBJECT"/>
+    </inputBindings>-->
 </modDesc>
