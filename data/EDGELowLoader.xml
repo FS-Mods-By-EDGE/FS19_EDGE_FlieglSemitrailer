@@ -277,10 +277,10 @@
         <sharedLight linkNode="worklight02" filename="$data/shared/assets/lights/hella/hellaWorkingLightSquare_02_back.xml">
             <rotationNode name="rotationNode1" rotation="-15 0 0"/>
         </sharedLight>
-        <sharedLight linkNode="sideMarkerLeft" filename="$data/shared/assets/lights/lizard/sideMarker_03_left.xml" scale="0.5 0.5 0.8"/>
-        <sharedLight linkNode="sideMarkerRight" filename="$data/shared/assets/lights/lizard/sideMarker_03_right.xml" scale="0.5 0.5 0.8"/>
-        <sharedLight linkNode="backLeft" filename="$data/shared/assets/lights/lizard/rearMultipointLight_01_left.xml" scale="1.5 1.8 1.5"/>
-        <sharedLight linkNode="backRight" filename="$data/shared/assets/lights/lizard/rearMultipointLight_01_right.xml" scale="1.5 1.8 1.5"/>
+        <sharedLight linkNode="sideMarkerLeft" filename="$data/shared/assets/lights/lizard/sideMarker_03_left.xml"/>
+        <sharedLight linkNode="sideMarkerRight" filename="$data/shared/assets/lights/lizard/sideMarker_03_right.xml"/>
+        <sharedLight linkNode="backLeft" filename="$data/shared/assets/lights/lizard/rearMultipointLight_01_left.xml"/>
+        <sharedLight linkNode="backRight" filename="$data/shared/assets/lights/lizard/rearMultipointLight_01_right.xml"/>
         <sharedLight linkNode="whiteRectangle01" lightTypes="0" filename="$data/shared/assets/lights/lizard/rearLightOvalLEDWhite_01.xml"/>
         <sharedLight linkNode="whiteRectangle02" lightTypes="0" filename="$data/shared/assets/lights/lizard/rearLightOvalLEDWhite_01.xml"/>
         <sharedLight linkNode="sideMarker_WhiteL0" lightTypes="0" filename="$data/shared/assets/lights/lizard/rearLightOvalLEDWhite_01.xml"/>
