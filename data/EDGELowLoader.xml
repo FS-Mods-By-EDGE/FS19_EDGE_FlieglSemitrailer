@@ -2,8 +2,7 @@
 <vehicle type="trailer">
     <annotation>Copyright (C) GIANTS Software GmbH, All Rights Reserved.</annotation>
     <storeData>
-        <name>            <en>$l10n_name_EDGELowLoader</en>
-        </name>
+        <name>$l10n_name_EDGELowLoader</name>
         <specs>
             <combination>Truck, Dolly EA</combination>
         </specs>
@@ -357,6 +356,7 @@
         </animation>
         <animation name="folding">
             <part node="rampJoints" startTime="0" endTime="5" componentJointindex="1" startRot="0 0 0" endRot="-111 0 0"/>
+            <objectChange node="rampLock" visibilityActive="false"/>
         </animation>
     </animations>
     <cylindered>
@@ -531,5 +531,6 @@
         <i3dMapping id="beltEnd12" node="0>5|11|0"/>
         <i3dMapping id="beltActivationTrigger" node="0>5|12"/>
         <i3dMapping id="MudJoint" node="0>9"/>
+        <i3dMapping id="rampLock" node="0>4|3"/>
     </i3dMappings>
 </vehicle>
